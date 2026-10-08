@@ -1,0 +1,17 @@
+[general]
+name=3D_Flood_Simulation
+qgisMinimumVersion=3.44
+qgisMaximumVersion=4.99
+description=A plugin that visualizes inundation depth using elevation data (DEM) and allows you to view water level changes in both 2D and 3D.
+about=標高DEM上で基準標高と水深を指定し、洪水浸水深区分色で浸水範囲を表示します。3Dビューで浸水高さを表示することも可能です。地理院地図標高PNGタイルも利用できますので、日本全国シームレスに表示することができます。
+version=0.9.0
+author=koichi kita
+email=qgisshitumon@gmail.com
+
+homepage=https://github.com/koukita/3D_Flood_Simulation
+tracker=https://github.com/koukita/3D_Flood_Simulation/issues
+repository=https://github.com/koukita/3D_Flood_Simulation
+tags=python, processing, Flood, 3D
+
+icon=icon.svg
+
